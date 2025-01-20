@@ -6,10 +6,10 @@ const HeroSection: React.FC = () => {
       <div className="container mx-auto px-6 sm:px-12 text-center sm:text-left">
         {/* Introduction */}
         <h1 className="text-4xl sm:text-6xl font-bold mb-6">
-          Hi, I'm <span className="text-blue-500">Adwait Bhvathankar</span>
+          Hi, I am <span className="text-blue-500">Adwait Bhvathankar</span>
         </h1>
         <p className="text-lg sm:text-xl text-gray-300 mb-8">
-          I'm a passionate <span className="text-blue-500">Web Developer</span> dedicated to creating beautiful, functional, and responsive web experiences. Let's build something amazing together.
+          I am a passionate <span className="text-blue-500">Web Developer</span> dedicated to creating beautiful, functional, and responsive web experiences. Let's build something amazing together.
         </p>
 
         {/* Call-to-Actions */}
