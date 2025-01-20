@@ -1,3 +1,4 @@
+import Image from 'next/image';
 import Link from 'next/link';
 
 const ProjectsSection: React.FC = () => {
@@ -36,7 +37,7 @@ const ProjectsSection: React.FC = () => {
           >
             {/* Project Image */}
             <div className="flex justify-center items-center bg-gray-700 p-8">
-              <img
+              <Image
                 src={project.image}
                 alt={project.title}
                 className="w-auto h-70 object-contain"
