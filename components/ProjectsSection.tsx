@@ -19,14 +19,7 @@ const ProjectsSection: React.FC = () => {
       liveLink: 'https://mern-food-ordering-app-frontend-005t.onrender.com', // Replace with your live project link
       githubLink: 'https://github.com/adwait-bhavthankar/mern-food-ordering-app-frontend', // Replace with your GitHub repository link
     },
-    {
-      title: 'Solar Panel Tracker',
-      description:
-        'A non-electrical device to track the movement of the sun and adjust the orientation of solar panels for maximum efficiency.',
-      image: '/images/solar-panel.png', // Replace with your image path
-      liveLink: '#', // Replace with your live project link
-      githubLink: '#', // Replace with your GitHub repository link
-    },
+   
   ];
 
   return (
