@@ -9,7 +9,7 @@ const ProjectsSection: React.FC = () => {
       description:
         'A personal portfolio website built using React and Tailwind CSS to showcase my skills and projects.',
       image: '/portfolio.png', // Replace with your image path
-      liveLink: 'https://your-portfolio-link.com',
+      liveLink: 'https://portfolio-website-jz5m.vercel.app/',
       githubLink: 'https://github.com/adwait-bhavthankar/portfolio-website',
     },
     {

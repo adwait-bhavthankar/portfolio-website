@@ -50,7 +50,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-bold mb-2">Follow Me</h3>
             <div className="flex space-x-4">
               <a
-                href="https://github.com/your-profile"
+                href="https://github.com/adwait-bhavthankar"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-500 transition duration-300"
@@ -65,7 +65,7 @@ const Footer: React.FC = () => {
                 </svg>
               </a>
               <a
-                href="https://linkedin.com/in/your-profile"
+                href="/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-500 transition duration-300"
@@ -80,7 +80,7 @@ const Footer: React.FC = () => {
                 </svg>
               </a>
               <a
-                href="https://instagram.com/your-profile"
+                href="/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-400 hover:text-blue-500 transition duration-300"
